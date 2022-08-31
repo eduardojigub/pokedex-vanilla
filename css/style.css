@@ -41,3 +41,8 @@
     top: 54.5%;
     right: 27%;
   }
+
+  .pokemon__name {
+    color: #3a444d;
+    text-transform: capitalize;;
+  }
