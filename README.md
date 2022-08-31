@@ -21,5 +21,6 @@
 
 ## GIF from the project:
 <p align="center">
-  <img  src="" alt="Pokedex App"/>
+  <img  src="" alt="Pok![pokedex](https://user-images.githubusercontent.com/47367373/187779119-6bb529c7-a347-49f3-87a0-25aa6c4f993a.gif)
+edex App"/>
 </p>
