@@ -89,7 +89,7 @@
   }
 
   .button:active {
-    box-shadow: inset -4px 4px 0 #222;
+    box-shadow: inset -4px 4px 0 #222; /* efeito de pressionar botão no inset */
     font-size: 0.9rem;
   }
   
