@@ -33,3 +33,11 @@
     transform: translate(-63%, 20%);
     height: 18%;
   }
+
+  .pokemon__data {
+    position: absolute;
+    font-weight: 600;
+    color: #aaa;
+    top: 54.5%;
+    right: 27%;
+  }
