@@ -7,11 +7,12 @@
 - Use CSS to add some style and to position elements in the screen. 
 - Javascript DOM to interaction with the web page. 
 - Using icons and images.
+- Request data from PokeApi https://pokeapi.co/
 
 
 ## What was developed
 
-- A page using HTML/CSS/JS
+- A page using HTML/CSS/JS and PokeAPI
 
 ## Instructions for viewing the project:
 
